@@ -1,7 +1,8 @@
-## Programming in Python, C++
-## I currently specialize in cybersecurity
+<img align='left' src='https://static.wikia.nocookie.net/fridaynightfunking/images/4/41/Miku2Anim.gif/revision/latest/top-crop/width/360/height/450?cb=20210509130047' width='20%'>  
+<img align='right' src='https://i.pinimg.com/originals/1e/db/f1/1edbf144909f2bbfcff412393422984c.gif' width='20%'>  
 
-👋 I am working on Scanit API
+# BIO
+CEO on [ScanIt](https://scanit.gg), [LoickTeam](https://loick.team), Developer on [UmbrellaBot](https://umbrellabot.xyz), [WolfGG](https://wolfgg.live), [PlayboyGxng](https://discord.gg/playboygxng).
 
 <br>
 
