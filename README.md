@@ -6,7 +6,7 @@ CEO on [ScanIt](https://scanit.gg), [LoickTeam](https://loick.team), Developer o
 <br>
 
 [![](https://discord.c99.nl/widget/theme-4/399862906877116418.png)](https://n1ck.cc)
-![](https://komarev.com/ghpvc/?username=nck4&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=nck4&color=blue)
 <br>
 
 <br><br>
