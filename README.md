@@ -1,16 +1,15 @@
-### Hi there 👋
+## Programming in Python, C++
+## I currently specialize in cybersecurity
 
-<!--
-**nck4/nck4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I am working on Scanit API
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://discord.c99.nl/widget/theme-4/399862906877116418.png)](https://n1ck.cc)
+
+<br>
+
+
+:zap: GitHub Stats
+<br><br>
+<a href="https://n1ck.cc"><img align="left" alt="nck4 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nck4&count_private=true&show_icons=true&theme=dark" /></a>
