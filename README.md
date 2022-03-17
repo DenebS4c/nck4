@@ -1,3 +1,13 @@
+<div align="center">
+	<a href="https://vshymanskyy.github.io/StandWithUkraine">
+		<img width="500" height="350" src="media/logo-ua.svg" alt="nck4">
+		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
+	</a>
+	<br>
+	<br>
+	<br>
+	<br>
+
 <img align='left' src='https://static.wikia.nocookie.net/fridaynightfunking/images/4/41/Miku2Anim.gif/revision/latest/top-crop/width/360/height/450?cb=20210509130047' width='20%'>  
 
 # BIO
