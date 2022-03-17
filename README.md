@@ -21,6 +21,3 @@ CEO on [ScanIt](https://scanit.gg), [LoickTeam](https://loick.team), Developer o
 <br>
 <br>
 <br>
-
-<br><br>
-<a href="https://n1ck.cc"><img align="left" alt="nck4 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nck4&count_private=true&show_icons=true&theme=dark" /></a>
